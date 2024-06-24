@@ -1,36 +1,36 @@
-# 帧秒转换器
+[简体中文](README_ZH.md)|[English](README.md)|[日本語](README_JP.md)
+# Frame-Seconds Converter
 
-这个项目是一个简单的帧秒转换器，用于将帧速率（FPS）和秒数（seconds）或帧数（frames）相互转换。它使用Python的`tkinter`库创建一个图形用户界面（GUI）。
+This project is a simple frame-seconds converter used to convert between frame rate (FPS) and seconds or frames. It uses Python's `tkinter` library to create a graphical user interface (GUI).
 
-## 特性
+## Features
 
-- 根据给定的帧速率（FPS），可以将帧数转换为秒数和剩余帧数，反之亦然。
-- 实时更新结果，当输入框中的值发生变化时，结果自动更新。
+- Convert frames to seconds and remaining frames based on a given frame rate (FPS), and vice versa.
+- Real-time result updates as the values in the input fields change.
 
-## 依赖
+## Dependencies
 
 - Python 3.x
-- `tkinter`库（通常随Python一起安装）
+- `tkinter` library (usually installed with Python)
 
-## 使用方法
+## Usage
 
-1. 克隆或下载此存储库到本地机器。
-2. 确保已安装Python 3.x。
-3. 运行脚本：
+1. Clone or download this repository to your local machine.
+2. Ensure Python 3.x is installed.
+3. Run the script:
 
    ```bash
    python sk2k.py
    ```
 
-## 文件说明
+## File Description
 
-- `sk2k.py`：主脚本，包含帧秒转换器的所有代码。
+- `sk2k.py`: Main script containing all the code for the frame-seconds converter.
 
+## Contribution
 
-## 贡献
+Feel free to submit issues and pull requests to improve this project.
 
-欢迎提交问题（issues）和请求（pull requests）以改进此项目。
+## License
 
-## 许可证
-
-基于MIT许可证
+MIT License.
