@@ -1,0 +1,1 @@
+([('main', '/Users/chenxing/Documents/contecut/dist/main', 'EXECUTABLE')],)
