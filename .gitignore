@@ -3,3 +3,5 @@
 /input_
 /output
 *.spec
+/.idea
+*.DS_Store
